@@ -1,0 +1,13 @@
+ID = int
+rating = double
+votes = int
+number_in_season = int
+number_in_series = int 
+original_air_date = date
+original_air_year = int 
+production_code = str
+season = str
+title = str
+viewers_in_millions = double
+
+
